@@ -1,0 +1,3 @@
+interface ElementoVenta {
+    double calcularPrecio();
+}
